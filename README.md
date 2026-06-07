@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Interactive row and column builder exporting CSS Grid values.
+  name: css-grid-generator-visual version: 1.0 type: Repository author: VarshuAi description: >   Interactive row and column builder exporting CSS Grid values. primary_tech: CSS
 primary_tech: CSS
 ```
 
